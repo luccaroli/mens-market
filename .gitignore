@@ -1,6 +1,7 @@
 *.vscode
 src/config/database.js
 src/config/auth.js
+tmp
 
 
 # Logs
