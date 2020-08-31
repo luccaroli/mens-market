@@ -1,8 +1,5 @@
 *.vscode
-src/config/database.js
-src/config/auth.js
 tmp
-src/config/mail.js
 
 # Logs
 logs
